@@ -6,14 +6,12 @@ Senior Epidemiologist & Health Data Scientist focused on turning multi-source he
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jasongeslois&style=flat-square&color=1f6391)
 
-<p align="center">
-  <a href="https://github.com/jasongeslois/github-stats">
-    <img src="https://raw.githubusercontent.com/jasongeslois/github-stats/generated/overview.svg#gh-dark-mode-only" alt="GitHub overview statistics" />
-    <img src="https://raw.githubusercontent.com/jasongeslois/github-stats/generated/languages.svg#gh-dark-mode-only" alt="Languages used" />
-    <img src="https://raw.githubusercontent.com/jasongeslois/github-stats/generated/overview.svg#gh-light-mode-only" alt="GitHub overview statistics" />
-    <img src="https://raw.githubusercontent.com/jasongeslois/github-stats/generated/languages.svg#gh-light-mode-only" alt="Languages used" />
-  </a>
-</p>
+<a href="https://github.com/jasongeslois/github-stats">
+<img src="https://github.com/jasongeslois/github-stats/blob/generated/overview.svg#gh-dark-mode-only" alt="GitHub overview statistics" />
+<img src="https://github.com/jasongeslois/github-stats/blob/generated/languages.svg#gh-dark-mode-only" alt="Languages used" />
+<img src="https://github.com/jasongeslois/github-stats/blob/generated/overview.svg#gh-light-mode-only" alt="GitHub overview statistics" />
+<img src="https://github.com/jasongeslois/github-stats/blob/generated/languages.svg#gh-light-mode-only" alt="Languages used" />
+</a>
 
 ### Featured Public Project
 
