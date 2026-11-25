@@ -6,16 +6,14 @@ Senior Epidemiologist & Health Data Scientist focused on turning multi-source he
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jasongeslois&style=flat-square&color=1f6391)
 
-<!-- GitHub Stats & Languages boxes: uncomment once you add ACCESS_TOKEN to jasongeslois/github-stats and run its Generate Images workflow.
 <p align="center">
   <a href="https://github.com/jasongeslois/github-stats">
-    <img src="https://raw.githubusercontent.com/jasongeslois/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub overview statistics" />
-    <img src="https://raw.githubusercontent.com/jasongeslois/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Languages used" />
-    <img src="https://raw.githubusercontent.com/jasongeslois/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub overview statistics" />
-    <img src="https://raw.githubusercontent.com/jasongeslois/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="Languages used" />
+    <img src="https://raw.githubusercontent.com/jasongeslois/github-stats/generated/overview.svg#gh-dark-mode-only" alt="GitHub overview statistics" />
+    <img src="https://raw.githubusercontent.com/jasongeslois/github-stats/generated/languages.svg#gh-dark-mode-only" alt="Languages used" />
+    <img src="https://raw.githubusercontent.com/jasongeslois/github-stats/generated/overview.svg#gh-light-mode-only" alt="GitHub overview statistics" />
+    <img src="https://raw.githubusercontent.com/jasongeslois/github-stats/generated/languages.svg#gh-light-mode-only" alt="Languages used" />
   </a>
 </p>
--->
 
 ### Featured Public Project
 
