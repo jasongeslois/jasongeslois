@@ -1,6 +1,8 @@
 ## Hi, I'm Jason Geslois
 
-Senior Epidemiologist & Health Data Scientist focused on turning multi-source health data into production analytics across maternal and child health, immunizations, infectious disease, and emergency preparedness. I build R packages, Shiny applications, and applied AI tools for public health data workflows.
+Data scientist and builder sharing personal software projects I create on my own time — spanning R packages, interactive Shiny apps, local-first tools, and applied AI experiments.
+
+*All repositories here are personal projects, independent of any employer.*
 
 [LinkedIn](https://www.linkedin.com/in/jasongeslois)
 
@@ -33,5 +35,5 @@ Senior Epidemiologist & Health Data Scientist focused on turning multi-source he
 </details>
 
 ### Focus Areas
-- **Languages & Tools:** R, Shiny, `tidymodels`, Quarto, Rust, SQL, Kotlin, Dart
-- **Domains:** Epidemiology, Public Health Analytics, Data Privacy & Synthetic Data, Applied AI
+- **Languages & Tools:** R, Shiny, `tidymodels`, Quarto, Rust, Kotlin, Dart, Python
+- **Interests:** Interactive Data & ML Tools, Local-First Software, Privacy-Aware Utilities, Applied AI
