@@ -1,8 +1,6 @@
 ## Hi, I'm Jason Geslois
 
-Data scientist and builder sharing personal software projects I create on my own time — spanning R packages, interactive Shiny apps, local-first tools, and applied AI experiments.
-
-*All repositories here are personal projects, independent of any employer.*
+Data scientist, epidemiologist, and builder creating R packages, interactive Shiny apps, local-first tools, and applied AI projects.
 
 [LinkedIn](https://www.linkedin.com/in/jasongeslois)
 
